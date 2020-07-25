@@ -14,8 +14,8 @@ Aprimorar meus conhecimentos sobre Arduino e Robótica.
 
 
 ## Softwares utilizados:
-* [Arduino 1.8.9](https://www.arduino.cc/en/Main/Software): Executar o programa que faz o Robô se movimentar
-* [Tinkercard](https://www.tinkercad.com/): Esboço do circuito montado no Chassi 2WD
+* **[Arduino 1.8.9](https://www.arduino.cc/en/Main/Software):** Executar o programa que faz o Robô se movimentar
+* **[Tinkercard](https://www.tinkercad.com/):** Esboço do circuito montado no Chassi 2WD
 
 ## Linguagem utilizada:
 * C++ 
@@ -23,17 +23,17 @@ Aprimorar meus conhecimentos sobre Arduino e Robótica.
 
 
 ## Pastas:
-* [imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo): Fotos antes e depois de montar o Robô
+* **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar o Robô
 
 
 
 ## Arquivos: 
-* **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg)**: Foto que contém todos os itens utilizados antes de montar o Robô. <br>
+* **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar o Robô. <br>
 Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente. <br>
 
 
 
-* [chassi_pá_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg): Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
+* **[chassi_pá_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
 
 
 
