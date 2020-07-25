@@ -15,7 +15,7 @@
 
 * Arduino 1.8.9: Executar o programa que faz o Robô se movimentar
 * Tinkercard: Esboço do circuito montado no Chassi 2WD
-, Roda Boba (Universal), Suporte para 4 Pilhas e Jogo de Parafusos
+
 
 
 
