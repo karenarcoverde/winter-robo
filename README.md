@@ -23,7 +23,7 @@ Aprimorar meus conhecimentos sobre Arduino e Robótica.
 
 
 ## Pastas:
-* imagens_robo: Fotos antes e depois de montar o Robô
+* [imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo): Fotos antes e depois de montar o Robô
 
 
 
