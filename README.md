@@ -26,7 +26,7 @@
 ## Arquivos: 
 * robo_antes: foto que contém todos os itens utilizados antes de montar o Robô. ![robo_antes](https://user-images.githubusercontent.com/59583521/88467581-bedce380-ceae-11ea-9dc2-378ddfd44d33.jpg)<br>
 Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente
-* chassi_pá_antes: Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. 
+* chassi_pá_antes: Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
 ![chassi_pá_antes](https://user-images.githubusercontent.com/59583521/88467654-a620fd80-ceaf-11ea-922f-33b302a9fdd9.jpg)
 
 
