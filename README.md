@@ -14,8 +14,8 @@ Aprimorar meus conhecimentos sobre Arduino e Robótica.
 
 
 ## Softwares utilizados:
-* Arduino 1.8.9: Executar o programa que faz o Robô se movimentar
-* Tinkercard: Esboço do circuito montado no Chassi 2WD
+* [Arduino 1.8.9](https://www.arduino.cc/en/Main/Software): Executar o programa que faz o Robô se movimentar
+* [Tinkercard](https://www.tinkercad.com/): Esboço do circuito montado no Chassi 2WD
 
 ## Linguagem utilizada:
 * C++ 
