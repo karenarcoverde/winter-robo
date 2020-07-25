@@ -35,8 +35,10 @@
 * Módulo Ponte H Dupla HG7881 (L9110)
 * Módulo Sensor de Distância Ultrassônico HC-SR04
 * Micro Servo 9g SG90 TowerPro
+* Buzzer Ativo 5v
 * 2 Mini Protoboard 170 pontos
 * Jumpers - Macho/Macho
+* Jumpers - Macho/Femea
 
 
 
