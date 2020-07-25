@@ -12,7 +12,6 @@
 
 
 ## Softwares utilizados:
-
 * Arduino 1.8.9: Executar o programa que faz o Robô se movimentar
 * Tinkercard: Esboço do circuito montado no Chassi 2WD
 
@@ -23,8 +22,12 @@
 
 
 ## Pastas:
+* imagens_robo: contém fotos tiradas antes e depois de montar o Robô
 
 ## Arquivos: 
+* robo_antes: foto que contém todos os itens utilizados antes de montar o Robô. <br>
+Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente
+* chassi_pá_antes: Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização
 
 
 
