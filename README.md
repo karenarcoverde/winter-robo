@@ -5,6 +5,12 @@
 
 ## Como usar o Robô: 
 
+
+
+## Objetivo:
+
+
+
 ## Softwares utilizados:
 
 * Arduino 1.8.9: Executar o programa que faz o Robô se movimentar
@@ -13,7 +19,7 @@
 
 
 
-## Objetivo:
+
 
 
 ## Arquivos: 
