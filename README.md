@@ -29,7 +29,7 @@ Aprimorar meus conhecimentos sobre Arduino e Robótica.
 
 ## Arquivos: 
 * **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar o Robô. <br>
-Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente. <br>
+*Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente.* <br>
 
 
 
