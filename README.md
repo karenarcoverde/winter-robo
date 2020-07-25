@@ -27,7 +27,7 @@
 * Robô Antes: foto que contém todos os itens utilizados antes de montar o Robô. <br>
 Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente
 
-<img src="winter-robo/imagens_robo/robo_antes.jpg">
+<img winter-robo="/winter-robo/imagens_robo/robo_antes.jpg">
 * Chassi_pá_antes: Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
 
 
