@@ -49,4 +49,5 @@
 * Solda Estanho em Fio Hikari HS-63: Resina Tipo: "M", Liga: Sn 63% x Pb 37% e Tamanho do diâmetro: 1mm
 * 1 Esponja Vegetal para Suporte de Solda
 * 1 Alicate Universal Hikari HK-502
+* Jogo de Chaves de Precisão C/6 Peças e Maleta
 
