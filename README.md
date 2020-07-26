@@ -1,7 +1,7 @@
 # winter-robo
 
 ## Função do Robô: 
-Um Robô Autônomo que desvia ao encontrar um obstáculo. Ao andar para trás, um som parecido com o robô R2-D2 do Star Wars é acionado.  
+Uma Robô Autônoma que desvia ao encontrar um obstáculo. Ao andar para trás, um som parecido com o robô R2-D2 do Star Wars é acionado.  
 
 
 ## Como usar o Robô: 
@@ -14,7 +14,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 
 ## Softwares utilizados:
-* **[Arduino 1.8.9](https://www.arduino.cc/en/Main/Software):** Executar o programa que faz o Robô se movimentar
+* **[Arduino 1.8.9](https://www.arduino.cc/en/Main/Software):** Executar o programa que faz a Robô se movimentar
 * **[Fritzing](https://fritzing.org/download/):** Esboço do circuito montado no Chassi 2WD
 
 ## Linguagem utilizada:
@@ -23,12 +23,12 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 
 ## Pastas:
-* **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar o Robô.
-* **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):** Esquemas do teste das rodas e do Robô Winter (Final da Montagem).
+* **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar a Robô.
+* **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):** Esquemas do teste das rodas e da Robô Winter (Final da Montagem).
 
 
 ## Arquivos: 
-* **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar o Robô. <br>
+* **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
 *Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente.* <br>
 
 
@@ -37,7 +37,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 * **[esquema_teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
 
-* **[esquema_winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_winter_robo.jpg):** Montagem final do Robô Winter com a seguinte função de desviar de obstáculos e o som emitido semelhante ao Robô R2-D2 ao frear. <br>
+* **[esquema_winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_winter_robo.jpg):** Montagem final da Robô Winter com a seguinte função de desviar de obstáculos e o som emitido semelhante ao Robô R2-D2 ao frear. <br>
 
 
 
