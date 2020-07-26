@@ -15,7 +15,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 ## Softwares utilizados:
 * **[Arduino 1.8.9](https://www.arduino.cc/en/Main/Software):** Executar o programa que faz o Robô se movimentar
-* **[Tinkercard](https://www.tinkercad.com/):** Esboço do circuito montado no Chassi 2WD
+* **Fritzing:** Esboço do circuito montado no Chassi 2WD
 
 ## Linguagem utilizada:
 * C++ 
@@ -23,8 +23,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 
 ## Pastas:
-* **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar o Robô
-
+* **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar o Robô.
+* **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):**: Esquemas do teste das rodas e do Robô Winter (Final da Montagem).
 
 
 ## Arquivos: 
@@ -34,6 +34,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 
 * **[chassi_pá_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
+
+* **[esquema_teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
 
 
 
