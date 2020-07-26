@@ -15,7 +15,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 ## Softwares utilizados:
 * **[Arduino 1.8.9](https://www.arduino.cc/en/Main/Software):** Executar o programa que faz o Robô se movimentar
-* **Fritzing:** Esboço do circuito montado no Chassi 2WD
+* **[Fritzing](https://fritzing.org/download/):** Esboço do circuito montado no Chassi 2WD
 
 ## Linguagem utilizada:
 * C++ 
