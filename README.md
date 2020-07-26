@@ -9,7 +9,7 @@ Um Robô Autônomo que desvia ao encontrar um obstáculo. Ao andar para trás, u
 
 
 ## Objetivo:
-Aprimorar meus conhecimentos sobre Eletrônica, Computação, Arduino e Robótica. 
+Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robótica. 
 
 
 
