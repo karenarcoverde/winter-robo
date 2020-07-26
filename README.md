@@ -1,10 +1,10 @@
 # winter-robo
 
-## Função do Robô: 
+## Função da Robô Winter: 
 Uma Robô Autônoma que desvia ao encontrar um obstáculo. Ao andar para trás, um som parecido com o robô R2-D2 do Star Wars é acionado.  
 
 
-## Como usar o Robô: 
+## Como usar a Robô Winter: 
 
 
 
