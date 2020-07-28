@@ -21,7 +21,6 @@ void setup()
  
 void loop()
 {
-
   // Liga a rotação dos motores girando para frente
   digitalWrite(IN1,HIGH);
   digitalWrite(IN2,LOW);
