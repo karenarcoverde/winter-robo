@@ -25,6 +25,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 ## Pastas:
 * **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar a Robô.
 * **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):** Esquemas do teste das rodas e da Robô Winter (Final da Montagem).
+* **[códigos_robo](https://github.com/karenarcoverde/winter-robo/tree/master/c%C3%B3digos_robo):** Códigos utilizados para testar as rodas e a Robô Winter com a função de desviar obstáculos.
 
 
 ## Arquivos: 
@@ -38,6 +39,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[esquema_teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
 
 * **[esquema_winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_winter_robo.jpg):** Montagem final da Robô Winter com a seguinte função de desviar de obstáculos e o som emitido semelhante ao Robô R2-D2 ao frear. <br>
+
+* **[teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/c%C3%B3digos_robo/teste_rodas/teste_rodas.ino):** Código utilizado para testar as rodas se estão girando para o lado correto. Caso esteja girando para o lado errado, basta inverter os terminais positivo e negativo do motor na ligação da ponte H L9110. <br>
 
 
 
