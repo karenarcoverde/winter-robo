@@ -57,7 +57,6 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * 1 Módulo Sensor de Distância Ultrassônico HC-SR04
 * 1 Micro Servo 9g SG90 TowerPro
 * 1 Buzzer Ativo 5v
-* 1 Mini Chave Gangorra - 2 Terminais
 * 2 Mini Protoboard 170 pontos
 * Jumpers - Macho/Macho
 * Jumpers - Macho/Femea
