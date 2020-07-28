@@ -3,15 +3,16 @@
 /*Pinagem do arduino*/
  
 //motor_A
-int IN1 = 10 ;
-int IN2 = 11 ;
+int IN1 = 10;
+int IN2 = 11;
  
 //motor_B
-int IN3 = 8 ;
-int IN4 = 9 ;
+int IN3 = 8;
+int IN4 = 9;
 
 //Inicializa Pinos
-void setup(){
+void setup()
+{
   pinMode(IN1,OUTPUT);
   pinMode(IN2,OUTPUT);
   pinMode(IN3,OUTPUT);
