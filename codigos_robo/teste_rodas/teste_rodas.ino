@@ -1,4 +1,4 @@
-/*Teste para saber se as rodas giram no sentido correto ("para frente") */
+//Teste para saber se as rodas giram no sentido correto ("para frente" e andando em linha reta)
 
 /*Pinagem do arduino*/
  
@@ -21,7 +21,7 @@ void setup()
  
 void loop()
 {
-  // Liga a rotação dos motores girando para frente
+  //Liga a rotação dos motores girando para frente e andando em linha reta
   digitalWrite(IN1,HIGH);
   digitalWrite(IN2,LOW);
   
