@@ -60,6 +60,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * 2 Mini Protoboard 170 pontos
 * Jumpers - Macho/Macho
 * Jumpers - Macho/Femea
+* Tubo Termo-retrátil 2mm - 1 metro
+* Fita Adesiva de Espuma Dupla Face 1,5m Banana: 01 rolo de 19 mm x 1,5 m 
 
 
 
