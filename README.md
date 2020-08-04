@@ -48,6 +48,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/teste_rodas/teste_rodas.ino):** Código utilizado para testar se as rodas estão girando para o lado correto ("para frente" e andando em linha reta). Caso esteja girando para o lado errado, basta inverter os pólos positivo e negativo do motor na ligação da ponte H L9110. <br>
 
 * **[winter_robo_andando](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
+* **[winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpg):**
+
 
 * **[winter_robo_vista_frontal](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
 
