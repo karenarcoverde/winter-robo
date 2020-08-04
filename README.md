@@ -31,6 +31,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[codigos_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo):** Códigos utilizados para testar as rodas e a Robô Winter com a função de desviar obstáculos.
 * **[teste_rodas](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/teste_rodas):** 
 * **[winter_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/winter_robo):** 
+* **[winter_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/winter_robo):** 
 
 ## Arquivos: 
 * **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
@@ -49,6 +50,12 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[winter_robo_andando](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
 
 * **[winter_robo_vista_frontal](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
+
+* **[winter_robo_vista_lateral](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_lateral.jpg):**
+
+* **[winter_robo_vista_superior](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_superior.jpg):**
+
+
 
 
 
