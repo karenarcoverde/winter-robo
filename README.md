@@ -33,32 +33,32 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[winter_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/winter_robo):** 
 
 ## Arquivos: 
-* **[robo_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
+* **[robo_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
 *Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente.* <br>
 
-* **[chassi_pá_antes](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
+* **[chassi_pá_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
 
-* **[esquema_teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
+* **[esquema_teste_rodas.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
 
-* **[esquema_winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_winter_robo.jpg):** Montagem final da Robô Winter com a seguinte função de desviar de obstáculos e o som emitido semelhante ao Robô R2-D2 ao frear. <br>
+* **[esquema_winter_robo.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_winter_robo.jpg):** Montagem final da Robô Winter com a seguinte função de desviar de obstáculos e o som emitido semelhante ao Robô R2-D2 ao frear. <br>
 
-* **[teste_rodas](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/teste_rodas/teste_rodas.ino):** Código utilizado para testar se as rodas estão girando para o lado correto ("para frente" e andando em linha reta). Caso esteja girando para o lado errado, basta inverter os pólos positivo e negativo do motor na ligação da ponte H L9110. <br>
+* **[teste_rodas.ino](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/teste_rodas/teste_rodas.ino):** Código utilizado para testar se as rodas estão girando para o lado correto ("para frente" e andando em linha reta). Caso esteja girando para o lado errado, basta inverter os pólos positivo e negativo do motor na ligação da ponte H L9110. <br>
 
-* **[winter_robo_andando](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
+* **[winter_robo_andando.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
 
-* **[winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpg):**
+* **[winter_robo.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpg):**
 
-* **[winter_robo_vista_frontal](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
+* **[winter_robo_vista_frontal.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
 
-* **[winter_robo_vista_lateral](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_lateral.jpg):**
+* **[winter_robo_vista_lateral.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_lateral.jpg):**
 
-* **[winter_robo_vista_superior](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_superior.jpg):**
+* **[winter_robo_vista_superior.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_superior.jpg):**
 
-* **[Ultrasonic](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/Ultrasonic.zip):**
+* **[Ultrasonic.zip](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/Ultrasonic.zip):**
 
-* **[musical_notes](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/musical_notes.h):**
+* **[musical_notes.h](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/musical_notes.h):**
 
-* **[winter_robo](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/winter_robo.ino):**
+* **[winter_robo.ino](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/winter_robo.ino):**
 
 
 
