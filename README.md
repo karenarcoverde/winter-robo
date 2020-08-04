@@ -5,6 +5,7 @@ Uma Robô Autônoma que desvia ao encontrar um obstáculo. Ao andar para trás, 
 
 
 ## Como usar a Robô Winter: 
+É necessário conectar o conector da bateria de 9V no arduino e colocas o fios positivo e negativo do suporte para pilhas no lugar correto da mini protoboard (olhar o esquema, caso necessário).
 
 ## Link do vídeo no YouTube: 
 https://www.youtube.com/watch?v=nPYNU9teCCw
