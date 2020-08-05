@@ -1,3 +1,4 @@
+
 #include <Ultrasonic.h>
 #include <Servo.h>
 #include "musical_notes.h"
@@ -160,15 +161,15 @@ void beep (int speakerPin, float noteFrequency, long noteDuration)
   float millisecondsPerCycle = 1000/(microsecondsPerWave * 2);
   float loopTime = noteDuration * millisecondsPerCycle;
   for (x=0;x<loopTime;x++)   
-          {   
-              digitalWrite(speakerPin,HIGH); 
-              delayMicroseconds(microsecondsPerWave); 
-              digitalWrite(speakerPin,LOW); 
-              delayMicroseconds(microsecondsPerWave); 
-          } 
+  {   
+    digitalWrite(speakerPin,HIGH); 
+    delayMicroseconds(microsecondsPerWave); 
+    digitalWrite(speakerPin,LOW); 
+    delayMicroseconds(microsecondsPerWave); 
+  } 
 }     
 
-void r2D2()
+void r2D2() // Notas musicais do robô R2-D2
 {
           beep(buzzerPin, note_A7,100); //A 
           beep(buzzerPin, note_G7,100); //G 
