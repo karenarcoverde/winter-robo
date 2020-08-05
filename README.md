@@ -47,7 +47,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 * **[winter_robo_andando.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
 
-* **[winter_robo.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpg):**
+* **[winter_robo.jpeg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpeg):**
 
 * **[winter_robo_vista_frontal.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
 
