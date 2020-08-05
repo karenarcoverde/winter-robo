@@ -1,4 +1,4 @@
-// Definindo bibliotecas para o sensor ultrassônico, servo motor e biblioteca de notais musicais
+// Definindo as bibliotecas para o sensor ultrassônico, servo motor e notais musicais
 #include <Ultrasonic.h>
 #include <Servo.h>
 #include "musical_notes.h"
@@ -46,7 +46,7 @@ void loop()
   if (ultrasonico.Ranging(CM) <= distanciaObstaculo) // Se a distância até o obstáculo for menor que 35 cm
   {
     Andar(5); // Freia 
-      int statuss = Radar();
+      int statuss = Radar(); // retorna o resultado da comparação da distância da Direita com a da Esquerda
       delay(500);
       if (statuss == 1) // Se a distância da direita for maior que a distância da esquerda
       {
