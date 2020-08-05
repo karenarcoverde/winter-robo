@@ -1,21 +1,22 @@
-
+// Definindo bibliotecas para o sensor ultrassônico, servo motor e biblioteca de notais musicais
 #include <Ultrasonic.h>
 #include <Servo.h>
 #include "musical_notes.h"
 
-#define pinoServo 7
-#define Trig 2
-#define Echo 3
+// Definindo as entradas e saídas com seus respectivos pinos
+#define pinoServo 7 
+#define Trig 2 // pino usado para disparar os pulsos do sensor
+#define Echo 3 //pino para ler a saída do sensor
 #define B1A 8
 #define B1B 9
 #define A1A 10
 #define A1B 11
 
-int distanciaD;
-int distanciaE;
-int buzzerPin = 6;
+int distanciaD; // distância da Direita
+int distanciaE; // distância da Esquerda
+int buzzerPin = 6; // pino do buzzer ativo 
 
-float distanciaObstaculo = 35;
+float distanciaObstaculo = 35; // Distância escolhida do robô até o obstáculo para fazer a comparação 
 
 Ultrasonic ultrasonico(Trig, Echo);
 
@@ -26,56 +27,56 @@ void setup()
   Serial.begin(9600);
   
   servo.attach(pinoServo);
-  //pinos da ponte H
-  pinMode(B1A, OUTPUT);
+  //pinos da ponte H - definindo os pinos da ponte H como saída
+  pinMode(B1A, OUTPUT); 
   pinMode(B1B, OUTPUT);
   pinMode(A1A, OUTPUT);
   pinMode(A1B, OUTPUT);
-  pinMode(buzzerPin, OUTPUT); 
+  pinMode(buzzerPin, OUTPUT); // pino do buzzer ativo como saída
   
-  servo.write(90);
-  //Radar();
+  servo.write(90); // Servo posiciona-se no 90° (metade/meio)
+  
 }
 
 void loop() 
 {
 
-  Serial.println(ultrasonico.Ranging(CM));
+  Serial.println(ultrasonico.Ranging(CM)); // Mostra no Monitor Serial a distância até o obstáculo em na unidade de cm 
   
-  if (ultrasonico.Ranging(CM) <= distanciaObstaculo)
+  if (ultrasonico.Ranging(CM) <= distanciaObstaculo) // Se a distância até o obstáculo for menor que 35 cm
   {
-    Andar(5);
+    Andar(5); // Freia 
       int statuss = Radar();
       delay(500);
-      if (statuss == 1) 
+      if (statuss == 1) // Se a distância da direita for maior que a distância da esquerda
       {
-        Andar(2);
+        Andar(2); // anda para trás
         delay(600);
-        Andar(4);
+        Andar(4); // faz curva para esquerda
         delay(400);
-        Andar(5);
+        Andar(5); // FREIA
       }
-      if (statuss == 2) 
+      if (statuss == 2) // Se a distância da esquerda for maior que a distância da direita
       {
-        Andar(2);
+        Andar(2); // anda para trás
         delay(600);
-        Andar(3);
+        Andar(3); // faz curva para direita
         delay(400);
-        Andar(5);
+        Andar(5); // FREIA
       }
-      if (statuss == 0) 
+      if (statuss == 0) // // Se a distância da direita for igual a distância da esquerda
       {
-        Andar(2);
+        Andar(2); // anda para trás
         delay(500);
-        Andar(4);
+        Andar(4); // faz curva para esquerda
         delay(300);
-        Andar(5);
+        Andar(5); // FREIA
       }
       delay(1000);
     }
   else 
   {
-    Andar(1);
+    Andar(1); // anda para frente
   }
 }
 
@@ -126,14 +127,14 @@ void Andar(int direcao)
 int Radar() 
 {
   delay(1000);
-  servo.write(175);
+  servo.write(175); // Servo posiciona-se no 175° (direita)
   delay(1000);
-  distanciaD = ultrasonico.Ranging(CM);
+  distanciaD = ultrasonico.Ranging(CM); // captura o valor da distância da direita
 
   delay(1000);
-  servo.write(10);
+  servo.write(10); // Servo posiciona-se no 10° (esquerda)
   delay(1000);
-  distanciaE = ultrasonico.Ranging(CM);
+  distanciaE = ultrasonico.Ranging(CM); // captura o valor da distância da esquerda
 
   delay(1000);
   servo.write(90);
