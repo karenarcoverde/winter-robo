@@ -8,7 +8,7 @@ Uma Robô Autônoma que desvia ao encontrar um obstáculo. Ao andar para trás, 
 É necessário conectar o conector da bateria de 9V no arduino e colocar o fios positivo e negativo do suporte para pilhas no lugar correto da mini protoboard (olhar os  **[esquemas](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo)**, caso necessário).
 
 ## Link do vídeo no YouTube: 
-https://www.youtube.com/watch?v=nPYNU9teCCw
+https://youtu.be/5RSSYW5R4Xc
 
 
 
