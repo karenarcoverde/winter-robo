@@ -30,8 +30,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar a Robô.
 * **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):** Esquemas do teste das rodas e da Robô Winter (Final da Montagem).
 * **[codigos_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo):** Códigos utilizados para testar as rodas e a Robô Winter com a função de desviar obstáculos.
-* **[teste_rodas](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/teste_rodas):** 
-* **[winter_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/winter_robo):** 
+* **[teste_rodas](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/teste_rodas):** Contém o código para testar as rodas da Robô.
+* **[winter_robo](https://github.com/karenarcoverde/winter-robo/tree/master/codigos_robo/winter_robo):** Contém os códigos para a Robô Winter funcionar, com a seguinte função de desviar de obstáculos e emitir som semelhante ao Robô R2-D2 ao frear.
 
 ## Arquivos: 
 * **[robo_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
