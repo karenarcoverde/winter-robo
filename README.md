@@ -45,19 +45,19 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 * **[teste_rodas.ino](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/teste_rodas/teste_rodas.ino):** Código utilizado para testar se as rodas estão girando para o lado correto ("para frente" e andando em linha reta). Caso esteja girando para o lado errado, basta inverter os pólos positivo e negativo do motor na ligação da ponte H L9110. <br>
 
-* **[winter_robo_andando.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):**
+* **[winter_robo_andando.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_andando.jpg):** Contém uma imagem da Robô andando enquanto ela estava ligada. <br>
 
-* **[winter_robo.jpeg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpeg):**
+* **[winter_robo.jpeg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo.jpeg):** Contém uma imagem da Robô parada enquanto ela estava desligada. <br>
 
-* **[winter_robo_vista_frontal.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):**
+* **[winter_robo_vista_frontal.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_frontal.jpg):** Contém uma imagem da Robô vista frontalmente para uma melhor visualização. <br>
 
-* **[winter_robo_vista_lateral.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_lateral.jpg):**
+* **[winter_robo_vista_lateral.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_lateral.jpg):** Contém uma imagem da Robô vista lateralmente para uma melhor visualização. <br>
 
-* **[winter_robo_vista_superior.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_superior.jpg):**
+* **[winter_robo_vista_superior.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/winter_robo_vista_superior.jpg):** Contém uma imagem da Robô vista superiormente para uma melhor visualização. <br>
 
-* **[Ultrasonic.zip](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/Ultrasonic.zip):**
+* **[Ultrasonic.zip](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/Ultrasonic.zip):** Biblioteca usada para o sensor ultrassônico na Robô. Esta biblioteca faz com que a Robô pegue a distância em centímetros até o obstáculo. Por meio do "Trig" que dispara pulsos sonoros do sensor e o objeto reflete esses pulsos, o resultado será um eco ("Echo") recebido e convertido em sinal elétrico.  <br>
 
-* **[musical_notes.h](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/musical_notes.h):**
+* **[musical_notes.h](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/musical_notes.h):** Biblioteca usada com as notas musicais e suas respectivas frequências. <br>
 
 * **[winter_robo.ino](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/winter_robo.ino):**
 
