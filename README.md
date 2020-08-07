@@ -37,7 +37,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * **[robo_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/robo_antes.jpg):** Foto que contém todos os itens utilizados antes de montar a Robô. <br>
 *Obs: Os itens que estão circulados em vermelho serão colocados em outra foto que dê para visualizar melhor pelo fato do item ser transparente.* <br>
 
-* **[chassi_pá_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização. <br> 
+* **[chassi_pá_antes.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/imagens_robo/chassi_p%C3%A1_antes.jpg):** Os itens para montar o Chassi, o Chassi e a pá que é encaixada no Micro Servo 9g são mostrados na foto com uma melhor visualização.
+*Obs: A pá utilizada para o servo motor foi a da direita. <br> 
 
 * **[esquema_teste_rodas.jpg](https://github.com/karenarcoverde/winter-robo/blob/master/esquemas_robo/esquema_teste_rodas.jpg):** Teste para saber se as rodas estão girando para o lado correto. <br>
 
