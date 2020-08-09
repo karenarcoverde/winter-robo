@@ -84,41 +84,41 @@ void Andar(int direcao)
 {
   if (direcao == 1)  // anda pra frente
   {
-    digitalWrite(B1A, HIGH);
-    digitalWrite(B1B, LOW);
-    digitalWrite(A1A, HIGH);
+    digitalWrite(B1A, HIGH); // roda esquerda gira para frente
+    digitalWrite(B1B, LOW); 
+    digitalWrite(A1A, HIGH); // roda direita gira para frente
     digitalWrite(A1B, LOW);
   }
 
   if (direcao == 2)  // anda pra trás
   {
-    digitalWrite(B1A, LOW);
+    digitalWrite(B1A, LOW); // roda esquerda gira para trás
     digitalWrite(B1B, HIGH);
-    digitalWrite(A1A, LOW);
+    digitalWrite(A1A, LOW); // roda direita gira para trás
     digitalWrite(A1B, HIGH);
   }
 
   if (direcao == 3)  // faz curva pra direita
   {
-    digitalWrite(B1A, HIGH);
+    digitalWrite(B1A, HIGH);  // roda esquerda gira para frente
     digitalWrite(B1B, LOW);
-    digitalWrite(A1A, LOW);
+    digitalWrite(A1A, LOW); // roda direita gira para trás
     digitalWrite(A1B, HIGH);
   }
 
   if (direcao == 4)  // faz curva pra esquerda
   {
-    digitalWrite(B1A, LOW);
+    digitalWrite(B1A, LOW); // roda esquerda gira para trás
     digitalWrite(B1B, HIGH);
-    digitalWrite(A1A, HIGH);
+    digitalWrite(A1A, HIGH); // roda direita gira para frente
     digitalWrite(A1B, LOW);
   }
 
   if (direcao == 5)  // FREIA
   {
-    digitalWrite(B1A, LOW);
+    digitalWrite(B1A, LOW); // roda esquerda desliga
     digitalWrite(B1B, LOW);
-    digitalWrite(A1A, LOW);
+    digitalWrite(A1A, LOW); // roda direita desliga
     digitalWrite(A1B, LOW);
     r2D2();
   }
