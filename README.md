@@ -64,12 +64,12 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 Explicação do código: <br>
 O servo motor se direciona 90°. O sensor ultrassônico pega a distância até o obstáculo em cm. Quando a Robô vê um obstáculo a uma distância menor ou igual a 35 cm, a Robô freia e faz uma comparação da distância da direita com a distância da esquerda. A comparação é feita girando a pá do servo motor para 175°, se direcionando para direita e o sensor ultrassônico pega a distância da direita. Depois o servo motor girá a pá para 10°, se direcionando para esquerda e o sensor ultrassônico pega a distância da esquerda. Em seguida faz uma comparação de qual distância é maior ou igual. Segue um quadro abaixo o que é feito quando é descoberta quem é maior, menor ou igual. 
 
-statuss | comparação| | |
+statuss | comparação| passo 1| passo 2| passo 3
 ------------ | ------------- | ------------- | ------------- | ------------- 
 1 | direita > esquerda | anda para trás | faz curva para esquerda | FREIA 
 2 | direita < esquerda | anda para trás | faz curva para direita | FREIA
 0 | direita = esquerda | anda para trás | faz curva para esquerda | FREIA
-nenhum anterior | anda para frente
+nenhum anterior | anda para frente | -| -|
 
 
 
