@@ -74,13 +74,13 @@ statuss | comparação| passo 1| passo 2| passo 3
 0 | esquerda = direita | anda para trás | faz curva para esquerda | FREIA
 
 
-direcao | passo 1| passo 2
------------- | ------------- | ------------- 
-anda para frente | roda esquerda gira para frente| roda direita gira para frente
-anda para trás | roda esquerda gira para trás | roda direita gira para trás
-faz curva para direita | roda esquerda gira para frente | roda direita gira para trás 
-faz curva para esquerda | roda esquerda gira para trás | roda direita gira para frente
-FREIA | roda esquerda desliga  | roda direita desliga 
+direcao | passo 1| passo 2 | passo 3
+------------ | ------------- | ------------- | ------------- 
+anda para frente | roda esquerda gira para frente| roda direita gira para frente | -
+anda para trás | roda esquerda gira para trás | roda direita gira para trás | -
+faz curva para direita | roda esquerda gira para frente | roda direita gira para trás | -
+faz curva para esquerda | roda esquerda gira para trás | roda direita gira para frente | -
+FREIA | roda esquerda desliga  | roda direita desliga | emite som R2-D2
 
 
 
