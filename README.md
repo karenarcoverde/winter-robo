@@ -75,7 +75,7 @@ statuss | comparação| passo 1| passo 2| passo 3
 
 
 direcao | função | passo 1| passo 2 | passo 3
------------- | ------------- | ------------- | ------------- 
+------------ | ------------- | ------------- | ------------- | ------------- 
 1 | anda para frente | roda esquerda gira para frente| roda direita gira para frente | -
 2 | anda para trás | roda esquerda gira para trás | roda direita gira para trás | -
 3 | faz curva para direita | roda esquerda gira para frente | roda direita gira para trás | -
