@@ -15,6 +15,9 @@ https://youtu.be/5RSSYW5R4Xc
 ## Objetivo:
 Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robótica. 
 
+## Observações importantes:
+Considerar o referencial de uma pessoa na traseira da Robô para melhor entendimento do código.
+
 
 
 ## Softwares utilizados:
