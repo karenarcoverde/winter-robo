@@ -16,7 +16,7 @@ https://youtu.be/5RSSYW5R4Xc
 Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robótica. 
 
 ## Observações importantes:
-Considerar o referencial de uma pessoa na traseira da Robô para melhor entendimento do código.
+Considerar o referencial de uma pessoa na traseira da Robô e olhando para o sensor ultrassônico para melhor entendimento do código.
 
 
 
