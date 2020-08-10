@@ -28,8 +28,8 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * C++ 
 
 ## Como incluir as bibliotecas:
-* Biblioteca Ultrasonic.zip: Sketch ->
-
+* Biblioteca Ultrasonic.zip: Sketch &#8594; Incluir Biblioteca &#8594; Adicionar biblioteca .ZIP
+* Biblioteca musical_notes.h: Ctrl + SHIFT + N &#8594; Nome para o novo arquivo &#8594; OK &#8594; Copiar e Colar o código musical_notes.h
 ## Pastas:
 * **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar a Robô.
 * **[esquemas_robo](https://github.com/karenarcoverde/winter-robo/tree/master/esquemas_robo):** Esquemas do teste das rodas e da Robô Winter (Final da Montagem).
