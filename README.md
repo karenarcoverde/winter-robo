@@ -15,7 +15,7 @@ https://youtu.be/5RSSYW5R4Xc
 ## Objetivo:
 Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robótica. 
 
-## Observações importantes:
+## Observação importante:
 **Considerar o referencial de uma pessoa na traseira da Robô e olhando para o sensor ultrassônico para melhor entendimento do código.**
 
 
