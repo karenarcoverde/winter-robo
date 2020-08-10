@@ -29,7 +29,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 
 ## Como incluir as bibliotecas:
 * Biblioteca Ultrasonic.zip: Sketch &#8594; Incluir Biblioteca &#8594; Adicionar biblioteca .ZIP
-* Biblioteca musical_notes.h: Ctrl + SHIFT + N &#8594; Nome para o novo arquivo &#8594; Digitar musical_notes.h &#8594; OK &#8594; Copiar e Colar o código musical_notes.h
+* Biblioteca musical_notes.h: Ctrl + Shift + N &#8594; Nome para o novo arquivo &#8594; Digitar musical_notes.h &#8594; OK &#8594; Copiar e Colar o código musical_notes.h
 
 
 ## Pastas:
