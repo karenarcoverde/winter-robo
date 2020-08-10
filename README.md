@@ -65,13 +65,13 @@ Considerar o referencial de uma pessoa na traseira da Robô para melhor entendim
 
 * **[winter_robo.ino](https://github.com/karenarcoverde/winter-robo/blob/master/codigos_robo/winter_robo/winter_robo.ino):** Contém o código para fazer a Robô desviar de obstáculos e emitir o som semelhante ao Robô R2-D2 ao frear. <br>
 Explicação do código: <br>
-O servo motor se direciona 90°. O sensor ultrassônico pega a distância até o obstáculo em cm. Quando a Robô vê um obstáculo a uma distância menor ou igual a 35 cm, a Robô freia e faz uma comparação da distância da direita com a distância da esquerda. Caso não seja menor ou igual a 35 cm, a Robô anda para frente. A comparação é feita girando a pá do servo motor para 175°, se direcionando para direita e o sensor ultrassônico pega a distância da direita. Depois o servo motor girá a pá para 10°, se direcionando para esquerda e o sensor ultrassônico pega a distância da esquerda. Em seguida faz uma comparação de qual distância é maior ou igual. Segue um quadro abaixo do que é feito quando é descoberta quem é maior ou igual. 
+O servo motor se direciona 90°. O sensor ultrassônico pega a distância até o obstáculo em cm. Quando a Robô vê um obstáculo a uma distância menor ou igual a 35 cm, a Robô freia e faz uma comparação da distância da direita com a distância da esquerda. Caso não seja menor ou igual a 35 cm, a Robô anda para frente. A comparação é feita girando a pá do servo motor para 175°, sensor ultrassônico se direcionando para esquerda e pega a distância da esquerda. Depois o servo motor girá a pá para 10°, sensor ultrassônico se direcionando para direita e pega a distância da direita. Em seguida faz uma comparação de qual distância é maior ou igual. Segue um quadro abaixo do que é feito quando é descoberta quem é maior ou igual.  
 
 statuss | comparação| passo 1| passo 2| passo 3
 ------------ | ------------- | ------------- | ------------- | ------------- 
-1 | direita > esquerda | anda para trás | faz curva para esquerda | FREIA 
-2 | direita < esquerda | anda para trás | faz curva para direita | FREIA
-0 | direita = esquerda | anda para trás | faz curva para esquerda | FREIA
+1 | esquerda > direita | anda para trás | faz curva para esquerda | FREIA 
+2 | esquerda < direita | anda para trás | faz curva para direita | FREIA
+0 | esquerda = direita | anda para trás | faz curva para esquerda | FREIA
 
 
 
