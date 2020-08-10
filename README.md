@@ -28,7 +28,7 @@ Aprimorar meus conhecimentos sobre Eletrônica, Programação, Arduino e Robóti
 * C++ 
 
 ## Como incluir as bibliotecas:
-# Biblioteca Ultrasonic.zip: sketch 
+* Biblioteca Ultrasonic.zip: Sketch ->
 
 ## Pastas:
 * **[imagens_robo](https://github.com/karenarcoverde/winter-robo/tree/master/imagens_robo):** Fotos antes e depois de montar a Robô.
