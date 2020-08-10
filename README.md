@@ -74,6 +74,8 @@ statuss | comparação| passo 1| passo 2| passo 3
 0 | esquerda = direita | anda para trás | faz curva para esquerda | FREIA
 
 
+Na segunda tabela é mostrada o funcionamento das rodas de acordo com a direção escolhida. <br>
+
 direcao | função | passo 1| passo 2 | passo 3
 ------------ | ------------- | ------------- | ------------- | ------------- 
 1 | anda para frente | roda esquerda gira para frente| roda direita gira para frente | -
