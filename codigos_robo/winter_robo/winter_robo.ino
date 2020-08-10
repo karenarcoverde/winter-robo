@@ -1,3 +1,8 @@
+/*  Robô que desvia de obstáculos e emite som do R2-D2 
+ *  IMPORTANTE: CONSIDERAR O REFERENCIAL DE UMA PESSOA NA TRASEIRA DO ROBÔ
+ *  PARA UM MELHOR ENTENDIMENTO DO CÓDIGO
+ */
+
 // Definindo as bibliotecas para o sensor ultrassônico, servo motor e notais musicais
 #include <Ultrasonic.h>
 #include <Servo.h>
@@ -48,7 +53,7 @@ void loop()
     Andar(5); // Freia 
       int statuss = Radar(); // retorna o resultado da comparação da distância da Direita com a da Esquerda
       delay(500);
-      if (statuss == 1) // Se a distância da direita for maior que a distância da esquerda
+      if (statuss == 1) // Se a distância da esquerda for maior que a distância da direita
       {
         Andar(2); // anda para trás
         delay(600);
@@ -56,7 +61,7 @@ void loop()
         delay(400);
         Andar(5); // FREIA
       }
-      if (statuss == 2) // Se a distância da esquerda for maior que a distância da direita
+      if (statuss == 2) // Se a distância da direita for maior que a distância da esquerda
       {
         Andar(2); // anda para trás
         delay(600);
@@ -64,7 +69,7 @@ void loop()
         delay(400);
         Andar(5); // FREIA
       }
-      if (statuss == 0) // // Se a distância da direita for igual a distância da esquerda
+      if (statuss == 0) // Se a distância da direita for igual a distância da esquerda
       {
         Andar(2); // anda para trás
         delay(500);
@@ -127,27 +132,27 @@ void Andar(int direcao)
 int Radar() 
 {
   delay(1000);
-  servo.write(175); // Servo posiciona-se no 175° (direita)
-  delay(1000);
-  distanciaD = ultrasonico.Ranging(CM); // captura o valor da distância da direita
-
-  delay(1000);
-  servo.write(10); // Servo posiciona-se no 10° (esquerda)
+  servo.write(175); // Servo posiciona-se no 175° (sensor gira para esquerda)
   delay(1000);
   distanciaE = ultrasonico.Ranging(CM); // captura o valor da distância da esquerda
 
   delay(1000);
+  servo.write(10); // Servo posiciona-se no 10° (sensor gira para direita)
+  delay(1000);
+  distanciaD = ultrasonico.Ranging(CM); // captura o valor da distância da direita
+
+  delay(1000);
   servo.write(90);
 
-  if (distanciaD > distanciaE)
+  if (distanciaE > distanciaD)
   {
-    return 1; // se tiver espaço na direita
+    return 1; // se tiver espaço na esquerda
   }
-  if (distanciaD < distanciaE)
+  if (distanciaE < distanciaD)
   {
-    return 2; //se tiver espaço na esquerda
+    return 2; //se tiver espaço na direita
   }
-  if (distanciaD == distanciaE)
+  if (distanciaE == distanciaD)
   {
     return 0;
   }
